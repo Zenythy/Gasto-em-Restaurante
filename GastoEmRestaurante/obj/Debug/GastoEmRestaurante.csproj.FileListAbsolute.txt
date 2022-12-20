@@ -1,0 +1,11 @@
+Y:\Visual Studio Projetos\GastoEmRestaurante\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+Y:\Visual Studio Projetos\GastoEmRestaurante\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+Y:\Visual Studio Projetos\GastoEmRestaurante\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+Y:\Visual Studio Projetos\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.AssemblyReference.cache
+Y:\Visual Studio Projetos\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.SuggestedBindingRedirects.cache
+Y:\Visual Studio Projetos\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.frmGastoRestaurante.resources
+Y:\Visual Studio Projetos\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+Y:\Visual Studio Projetos\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.cache
+Y:\Visual Studio Projetos\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.CoreCompileInputs.cache
+Y:\Visual Studio Projetos\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+Y:\Visual Studio Projetos\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb
